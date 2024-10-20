@@ -1,4 +1,5 @@
 import Link from 'next/link';
+export const runtime = "experimental-edge";
 const Download = ({ icon }) => {
   return (
     <>

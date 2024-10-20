@@ -1,6 +1,6 @@
 import React from 'react'
 import CardLayout from '../Common/CardLayout'
-
+export const runtime = "experimental-edge";
 const Exp_Card = ({ data }) => {
     return (
         <CardLayout>

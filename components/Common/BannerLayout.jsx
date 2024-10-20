@@ -1,4 +1,4 @@
-
+export const runtime = "experimental-edge";
 const BannerLayout = ({ children }) => {
     return (
         <div

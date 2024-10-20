@@ -1,7 +1,7 @@
 import Typewriter from 'typewriter-effect';
 import BannerLayout from '../Common/BannerLayout';
 import { Link } from 'react-scroll';
-
+export const runtime = "experimental-edge";
 const Banner = () => {
     return (
         <BannerLayout>

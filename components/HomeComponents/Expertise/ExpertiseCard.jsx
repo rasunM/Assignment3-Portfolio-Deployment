@@ -1,5 +1,5 @@
 import CardLayout from "../../Common/CardLayout"
-
+export const runtime = "experimental-edge";
 const ExpertiseCard = ({ data }) => {
     return (
         <CardLayout>

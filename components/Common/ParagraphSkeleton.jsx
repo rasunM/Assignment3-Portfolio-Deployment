@@ -1,6 +1,6 @@
 import React from 'react'
 import CardLayout from './CardLayout'
-
+export const runtime = "experimental-edge";
 const ParagraphSkeleton = ({ classNam }) => {
     return (
 

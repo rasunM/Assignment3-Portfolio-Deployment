@@ -1,5 +1,5 @@
 import Badge from "../Common/Badge"
-
+export const runtime = "experimental-edge";
 const PortfolioCard = ({ data }) => {
     return (
         <div className="card_stylings overflow-hidden h-full">

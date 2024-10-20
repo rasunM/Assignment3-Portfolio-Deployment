@@ -1,6 +1,6 @@
 import ExpertiseCard from "./ExpertiseCard"
 import expertise from '../../../pages/api/expertise'
-
+export const runtime = "experimental-edge";
 const MyExpertise = () => {
     return (
         <>

@@ -1,5 +1,6 @@
 import Badge from '../Badge';
 import { TECH_STACK } from '../../../constants/constants';
+export const runtime = "experimental-edge";
 const Tools = () => {
   return (
     <div className='flex flex-col space-y-1 pt-6'>

@@ -1,6 +1,6 @@
 import { AiFillCopyrightCircle } from 'react-icons/ai'
 import { MdMail } from 'react-icons/md'
-
+export const runtime = "experimental-edge";
 const Footer = () => {
     return (
         <div id='intro' className="mt-4 mb-10 lg:mb-0">

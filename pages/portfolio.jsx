@@ -2,7 +2,7 @@ import BannerLayout from "../components/Common/BannerLayout";
 import Footer from "../components/Footer";
 import PortfolioCard from "../components/Portfolio/PortfolioCard";
 import portfolio from './api/portfolio'
-
+export const runtime = "experimental-edge";
 const Portfolio = () => {
     return (
         <BannerLayout>

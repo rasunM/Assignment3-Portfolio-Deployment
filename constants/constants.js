@@ -1,5 +1,5 @@
 export const NAME = 'Rasun Manohara Perera';
-
+export const runtime = "experimental-edge";
 export const DESIGNATION = `Web Developer | Flutter Developer | Java Developer | Python Developer`;
 
 export const DETAILS = {

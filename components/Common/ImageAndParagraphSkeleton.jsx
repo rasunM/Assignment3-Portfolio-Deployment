@@ -1,5 +1,5 @@
 import React from 'react'
-
+export const runtime = "experimental-edge";
 const ImageAndParagraphSkeleton = ({ className }) => {
     return (
 

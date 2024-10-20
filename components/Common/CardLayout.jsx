@@ -1,5 +1,5 @@
 import React from 'react'
-
+export const runtime = "experimental-edge";
 const CardLayout = ({ children, classNam = "h-full w-full" }) => {
     return (
         <div className={`${classNam} boxShodow hover:transition-all !duration-200 hover:scale-[1.01] ease-linear rounded-xl`}

@@ -1,3 +1,4 @@
+export const runtime = "experimental-edge";
 const background = [
     {
         eduCards: [

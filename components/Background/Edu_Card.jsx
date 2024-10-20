@@ -1,6 +1,6 @@
 import React from 'react'
 import CardLayout from '../Common/CardLayout'
-
+export const runtime = "experimental-edge";
 const Edu_Card = ({ data }) => {
     return (
         <CardLayout className='keepItEmpty'>

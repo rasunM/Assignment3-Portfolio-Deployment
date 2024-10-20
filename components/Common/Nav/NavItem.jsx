@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router';
 import React from 'react'
 
-
+export const runtime = "experimental-edge";
 const NavItem = ({ NavIcon, NavText, NavRoute, setIsOpen }) => {
     const router = useRouter();
     const className = router.asPath === `${NavRoute}` ? "rounded-xl !text-DeepNightBlack bg-Green font-bold tracking-widest" : '';

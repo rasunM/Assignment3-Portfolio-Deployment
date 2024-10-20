@@ -1,6 +1,6 @@
 import { DETAILS } from '../../../constants/constants';
 import { getObjectKeys } from '../../../utils/utils';
-
+export const runtime = "experimental-edge";
 const Location = () => {
   const keys = getObjectKeys(DETAILS);
   return (

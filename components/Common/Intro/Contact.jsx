@@ -1,7 +1,7 @@
 import React from 'react';
 import { CONTACTS } from '../../../constants/constants';
 import Link from 'next/link';
-
+export const runtime = "experimental-edge";
 const Contact = () => {
   return (
     <div className='flex flex-col space-y-2 pt-6'>

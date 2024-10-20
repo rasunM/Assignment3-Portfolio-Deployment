@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "pages:build" : "npx @cloudflare/next-on-pages"
+    "pages:build": "npx @cloudflare/next-on-pages"
   },
   "dependencies": {
     "@next/font": "13.1.1",
@@ -22,6 +22,7 @@
     "react-query": "^3.39.3",
     "react-scroll": "^1.8.9",
     "sass": "^1.64.2",
+    "sharp": "^0.33.5",
     "typewriter-effect": "^2.19.0"
   },
   "devDependencies": {

@@ -1,5 +1,6 @@
 import LinearBar from './LinearBar';
 import { SKILLS } from '../../../constants/constants';
+export const runtime = "experimental-edge";
 const Skills = () => {
   return (
     <div className='flex flex-col space-y-1 pt-6'>

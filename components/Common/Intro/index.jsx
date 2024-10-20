@@ -8,7 +8,7 @@ import Skills from './Skills';
 import Image from 'next/image';
 import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
 import Rasun from '../../../public/images/RasunManohara.jpg';
-
+export const runtime = "experimental-edge";
 const Intro = () => {
   return (
     <>

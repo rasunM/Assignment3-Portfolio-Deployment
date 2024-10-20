@@ -5,7 +5,7 @@ import { ImHome } from 'react-icons/im'
 import { HiIdentification } from 'react-icons/hi'
 import NavItem from './NavItem'
 import DrawerLayout from '../DrawerLayout'
-
+export const runtime = "experimental-edge";
 
 const Nav = ({ setIsOpen, isOpen }) => {
     return (

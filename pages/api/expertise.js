@@ -1,3 +1,4 @@
+export const runtime = "experimental-edge";
 const expertise = [
     {
         id: 0,

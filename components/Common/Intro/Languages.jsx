@@ -1,6 +1,6 @@
 import { Progress } from "antd"
 import { useEffect, useState } from "react"
-
+export const runtime = "experimental-edge";
 const Languages = () => {
     const [urdu, setUrdu] = useState(0)
     const [english, setEnglish] = useState(0)
