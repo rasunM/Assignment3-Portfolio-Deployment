@@ -2,7 +2,7 @@ import Footer from '../components/Footer';
 import Banner from '../components/HomeComponents/Banner';
 import MyExpertise from '../components/HomeComponents/Expertise/MyExpertise';
 
-export const runtime = "experimental-edge";
+export const runtime = "nodejs";
 
 const home = () => {
     return (

@@ -4,7 +4,7 @@ import { FaFacebook, FaGithub, FaInstagram, FaLinkedin,} from 'react-icons/fa'
 import { HiMail,} from 'react-icons/hi'
 import Footer from '../components/Footer';
 
-export const runtime = "experimental-edge";
+export const runtime = "nodejs";
 
 const Contact = () => {
     const [isOpen, setIsOpen] = useState(false)

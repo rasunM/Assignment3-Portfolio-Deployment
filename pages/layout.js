@@ -4,7 +4,7 @@ import { FaBars, FaMousePointer } from 'react-icons/fa';
 import { SlOptionsVertical } from 'react-icons/sl';
 import { useState } from 'react';
 
-export const runtime = "experimental-edge";
+export const runtime = "nodejs";
 
 export default function Layout({ children }) {
   const [isOpen, setIsOpen] = useState(false);

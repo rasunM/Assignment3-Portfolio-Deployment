@@ -4,7 +4,7 @@ import BannerLayout from "../components/Common/BannerLayout";
 import Footer from "../components/Footer";
 import background from './api/background'
 
-export const runtime = "experimental-edge";
+export const runtime = "nodejs";
 
 function Background() {
     return (
